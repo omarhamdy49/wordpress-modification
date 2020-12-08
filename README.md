@@ -6,5 +6,6 @@ shell script to modifiy wordpress default structure `directory naming` and also 
 - open script file and edit  db credentials and prefix variables with yours 
 - run it `bash modify.sh` 
 
-##Screen Shot
+## Screen Shot 
+
 ![Screenshot](screenshot.png)
